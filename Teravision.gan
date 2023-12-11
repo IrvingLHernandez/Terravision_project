@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Teravision" company="Équipe 4 M1 Automatique Robotique" webLink="http://" view-date="2023-12-04" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="es_MX">
+<?xml version="1.0" encoding="UTF-8"?><project name="Teravision" company="Équipe 4 M1 Automatique Robotique" webLink="http://" view-date="2023-12-04" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.2.3230" locale="es_ES">
     <description>
         <![CDATA[Gestion de Projet]]>
     </description>
     <view zooming-state="default:2" id="gantt-chart">
-        <field id="tpd3" name="Name" width="200" order="0"/>
-        <field id="tpd4" name="Begin date" width="75" order="1"/>
-        <field id="tpd5" name="End date" width="75" order="2"/>
+        <field id="tpd3" name="Nombre" width="200" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="75" order="1"/>
+        <field id="tpd5" name="Fecha de fin" width="75" order="2"/>
         <option id="filter.completedTasks" value="false"/>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="210" order="0"/>
-        <field id="1" name="Default role" width="86" order="1"/>
+        <field id="0" name="Nombre" width="210" order="0"/>
+        <field id="1" name="Función" width="86" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -37,7 +37,10 @@
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
         <task id="0" name="Conception" meeting="false" start="2023-12-04" duration="1" complete="0" expand="true">
-            <task id="1" name="task_1" meeting="false" start="2023-12-04" duration="1" complete="0" expand="true"/>
+            <task id="1" name="Dessin" color="#8cb6ce" meeting="false" start="2023-12-04" duration="1" complete="0" thirdDate="2023-12-04" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="2" name="Programmation" color="#8cb6ce" meeting="false" start="2023-12-11" duration="30" complete="0" thirdDate="2023-12-04" thirdDate-constraint="0" expand="true">
+            <task id="3" name="Mise a jour de logiciel" color="#8cb6ce" meeting="false" start="2023-12-11" duration="30" complete="0" thirdDate="2023-12-04" thirdDate-constraint="0" expand="true"/>
         </task>
     </tasks>
     <resources>
