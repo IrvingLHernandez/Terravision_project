@@ -5,7 +5,7 @@ Projet en groupe du module Gestion de projet
 
 **Groupe 4
 
-*Intégrants de l’équipe:*
+*Membres de l’équipe:*
 
 - BELDJOUDI Siham
 - OUAICHOUCHE Feriel
