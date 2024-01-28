@@ -6,6 +6,6 @@
 
 [Qui sommes-nous ?](Organigramme.md)
 
-[Terravision](https://groupe-cancer.uca.fr/fr/recherche/activites-de-recherche-par-laboratoire/chu-de-clermont-ferrand)
+[Terravision](https://github.com/IrvingLHernandez/Terravision_project/)
 
 ![Terravision](Terravision_logo.gif)
