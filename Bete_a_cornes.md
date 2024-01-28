@@ -1,4 +1,4 @@
-# Bête à cornes
+# Bête à cornes & Analyse SWOT
 
 [Terravision](Terravision.md)
 
@@ -6,6 +6,6 @@
 
 [Qui sommes-nous ?](Organigramme.md)
 
-[Terravision](https://groupe-cancer.uca.fr/fr/recherche/activites-de-recherche-par-laboratoire/chu-de-clermont-ferrand)
+[Bête à cornes & Analyse SWOT](https://excalidraw.com/#room=c3d3eefd1bcbdac9ba38,YTpUo2c-Dy2CXEl9fbEO1A)
 
 ![Bête à cornes](Bete_a_cornes.jpg)
