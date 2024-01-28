@@ -8,4 +8,4 @@
 
 [Terravision](https://groupe-cancer.uca.fr/fr/recherche/activites-de-recherche-par-laboratoire/chu-de-clermont-ferrand)
 
-![Terravision](Logo.jpg)
+![Terravision](Terravision_logo.gif)
