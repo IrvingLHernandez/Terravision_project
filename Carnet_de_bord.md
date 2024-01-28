@@ -2,10 +2,10 @@
 
 [Terravision](Terravision.md)
 
-[Carnet de bord ](Carnet_de_bord.md)
+[Diagramme Bête à cornes & Analyse SWOT](Bete_a_cornes.md)
 
 [Qui sommes-nous ?](Organigramme.md)
 
-[Bête à cornes & Analyse SWOT](https://excalidraw.com/#room=c3d3eefd1bcbdac9ba38,YTpUo2c-Dy2CXEl9fbEO1A)
+[Carnet de bord](https://demo.hedgedoc.org/VmpNhRBGQaOVvb9N7h8jDw?both)
 
-![Bête à cornes](Bete_a_cornes.jpg)
+![Carnet de bord](Carnet_de_bord.jpg)
