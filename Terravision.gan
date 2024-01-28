@@ -2,15 +2,15 @@
     <description>
         <![CDATA[Gestion de Projet]]>
     </description>
-    <view zooming-state="default:4" id="gantt-chart">
+    <view zooming-state="default:6" id="gantt-chart">
         <field id="tpd3" name="Nombre" width="200" order="0"/>
         <field id="tpd4" name="Fecha de inicio" width="75" order="1"/>
         <field id="tpd5" name="Fecha de fin" width="75" order="2"/>
         <option id="filter.completedTasks" value="false"/>
     </view>
     <view id="resource-table">
-        <field id="0" name="Nombre" width="210" order="0"/>
-        <field id="1" name="Función" width="86" order="1"/>
+        <field id="0" name="Nombre" width="199" order="0"/>
+        <field id="1" name="Función" width="82" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -48,7 +48,7 @@
             <task id="12" name="Mise en forme/présentation du projet" color="#8cb6ce" meeting="false" start="2023-12-11" duration="25" complete="0" thirdDate="2023-12-25" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="2" name="Développement" color="#8cb6ce" meeting="false" start="2024-01-15" duration="15" complete="0" thirdDate="2023-12-04" thirdDate-constraint="0" expand="true">
-            <task id="5" name="Programmation de l'application" color="#8cb6ce" meeting="false" start="2024-01-15" duration="10" complete="0" thirdDate="2023-12-04" thirdDate-constraint="0" expand="true"/>
+            <task id="5" name="Programmation du software" color="#8cb6ce" meeting="false" start="2024-01-15" duration="10" complete="0" thirdDate="2023-12-04" thirdDate-constraint="0" expand="true"/>
             <task id="10" name="Intégration avec le Drone" color="#8cb6ce" meeting="false" start="2024-01-29" duration="3" complete="0" thirdDate="2023-12-04" thirdDate-constraint="0" expand="true"/>
             <task id="11" name="Test sur le terrain" color="#8cb6ce" meeting="false" start="2024-02-01" duration="2" complete="0" thirdDate="2023-12-25" thirdDate-constraint="0" expand="true"/>
         </task>
