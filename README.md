@@ -1,13 +1,19 @@
 # Terravision_project
+
 Projet en groupe du module Gestion de projet
-**Groupe 4
-*Intégrants de l’équipe:*
-BELDJOUDI Siham
-OKOMBE Léon
-DECHEVRENS Quentin
-OUAICHOUCHE Feriel
-NAIM Youssef
-LOPEZ Irving
+
+*** Chaque fichier .md a des commentaires et ses images ***
+
+## Groupe 4
+
+*Membres de l’équipe:*
+
+- BELDJOUDI Siham
+- OUAICHOUCHE Feriel
+- OKOMBE Léon
+- DECHEVRENS Quentin
+- NAIM Youssef
+- LOPEZ Irving
 
 Lien au Carnet de bord:
 https://demo.hedgedoc.org/VmpNhRBGQaOVvb9N7h8jDw?both
