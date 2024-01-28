@@ -8,4 +8,4 @@
 
 [Organigramme](https://www.canva.com/design/DAF59xhl04o/6OaT5bPkc6ecYNONgje42Q/view?utm_content=DAF59xhl04o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-![Membres de l'équipe](Organigramme.jpg)
+![Membres de l'équipe](Organigramme.png)
