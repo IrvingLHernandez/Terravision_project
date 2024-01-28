@@ -1,7 +1,7 @@
 # Terravision_project
 
-*** Chaque fichier .md a des commentaires et ses images ***
 Projet en groupe du module Gestion de projet
+*** Chaque fichier .md a des commentaires et ses images ***
 
 ## Groupe 4
 
