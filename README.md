@@ -8,9 +8,9 @@ Projet en groupe du module Gestion de projet
 *Intégrants de l’équipe:*
 
 - BELDJOUDI Siham
+- OUAICHOUCHE Feriel
 - OKOMBE Léon
 - DECHEVRENS Quentin
-- OUAICHOUCHE Feriel
 - NAIM Youssef
 - LOPEZ Irving
 
