@@ -3,8 +3,8 @@
         <![CDATA[Gestion de Projet]]>
     </description>
     <view zooming-state="default:6" id="gantt-chart">
-        <field id="tpd3" name="Nombre" width="200" order="0"/>
-        <field id="tpd4" name="Fecha de inicio" width="75" order="1"/>
+        <field id="tpd3" name="Nombre" width="204" order="0"/>
+        <field id="tpd4" name="Fecha de inicio" width="71" order="1"/>
         <field id="tpd5" name="Fecha de fin" width="75" order="2"/>
         <option id="filter.completedTasks" value="false"/>
     </view>
