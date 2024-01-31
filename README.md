@@ -26,3 +26,6 @@ https://drive.google.com/drive/folders/1h-mYeKmgyxcOxYh07eadCKSS7oHLqAE9?usp=dri
 
 Lien au site web:
 https://irvinglhernandez.github.io/Terravision.github.io/
+
+Lien vers repertoire de l'interface Utilisateur:
+https://github.com/sambeld/User-Interface-for-plant-disease-detection.git
